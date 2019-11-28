@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8df72d3ccbd1c4945bd38ddec32ebc4e",
+    "revision": "3053175268e51d3d06bbe57023609410",
     "url": "/FullStackOpen-2019/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FullStackOpen-2019/static/js/2.9e044f55.chunk.js"
   },
   {
-    "revision": "b11eed23c9a6b11bbb66",
-    "url": "/FullStackOpen-2019/static/js/main.eb92ac0b.chunk.js"
+    "revision": "3c76d40a6a13fac55bb4",
+    "url": "/FullStackOpen-2019/static/js/main.0aef5213.chunk.js"
   },
   {
     "revision": "cca66c2dc876b2810045",
